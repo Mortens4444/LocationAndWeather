@@ -1,4 +1,4 @@
-LocationAndWeather/bin/
-LocationAndWeather/obj/
+**/bin/
+**/obj/
 .vs/
 packages/
